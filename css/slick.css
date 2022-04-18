@@ -176,7 +176,7 @@
 }
 #sec3 .regular .slick-slide{
     text-align: center;
-    border: 1px solid #ddd;
+    /* border: 1px solid #ddd; */
     box-sizing: border-box;
     height: 52px;
 }
